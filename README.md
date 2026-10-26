@@ -1,4 +1,4 @@
-# windows-terminal-setup
+# Auto-ohmyposh
 
 Script PowerShell interativo que deixa um Windows recém-formatado com **Windows Terminal**, **VS Code** e **PowerShell** prontos, usando o prompt [Oh My Posh](https://ohmyposh.dev) e a fonte **MesloLGM Nerd Font**. O tema padrão é o `montys`, mas você escolhe qualquer um dos mais de 120 temas oficiais durante a execução.
 
@@ -37,8 +37,8 @@ Cada etapa pede confirmação, então você pode pular o que já tem pronto.
 Baixe ou clone o repositório e execute o script:
 
 ```powershell
-git clone https://github.com/<usuario>/windows-terminal-setup.git
-cd windows-terminal-setup
+git clone https://github.com/sgoncal91caixa/Auto-ohmyposh.git
+cd Auto-ohmyposh
 powershell -ExecutionPolicy Bypass -File .\setup-terminal.ps1
 ```
 
